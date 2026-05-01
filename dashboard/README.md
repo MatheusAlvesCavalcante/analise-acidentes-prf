@@ -16,3 +16,4 @@ Navegue até a raiz do projeto e instale as dependências necessárias:
 pip install -r dashboard/requirements.txt
 ```
 ### 3. Execução streamlit run dashboard/app.py
+streamlit run dashboard/app.py
