@@ -2,13 +2,6 @@
 
 Esta pasta contém o código-fonte da interface interativa e do modelo preditivo desenvolvido em Python utilizando **Streamlit**.
 
-##  Preview do Dashboard
-
-<!-- Substitua o link abaixo pelo caminho da sua imagem após subir ela para o repositório -->
-![Preview do Dashboard](../dashboard_preview.png)
-
-> **Dica:** Se possível, grave um pequeno GIF do dashboard funcionando e substitua a imagem acima para mostrar a interatividade em tempo real.
-
 ##  Como Executar
 
 Para rodar este dashboard localmente, siga os passos abaixo:
